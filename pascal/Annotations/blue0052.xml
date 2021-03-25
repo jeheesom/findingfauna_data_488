@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>blue0052.jpg</filename>
+	<path>/Users/jamesheesom1/Documents/GitHub/findingfauna_data_488/pascal/JPEGImages/blue0052.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>488</width>
+		<height>488</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bluewhale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>161</ymin>
+			<xmax>324</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

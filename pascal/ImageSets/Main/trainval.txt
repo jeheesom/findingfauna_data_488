@@ -263,7 +263,6 @@ luga0011
 luga0012
 luga0013
 luga0014
-luga0016
 luga0017
 luga0018
 orca0027
@@ -323,12 +322,8 @@ orca0080
 orca0081
 orca0082
 orca0083
-orca0084
 orca0085
 orca0086
-orca0087
-orca0088
-orca0089
 orca0090
 orca0091
 orca0092
@@ -343,9 +338,7 @@ orca0100
 orca0101
 orca0102
 orca0103
-orca0104
 orca0105
-orca0106
 orca0107
 orca0108
 orca0109
@@ -363,7 +356,6 @@ orca0120
 orca0121
 orca0122
 orca0123
-orca0124
 orca0125
 orca0126
 orca0127

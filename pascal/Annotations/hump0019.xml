@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>hump0019.jpg</filename>
+	<path>/Users/jamesheesom1/Documents/GitHub/findingfauna_data_488/pascal/JPEGImages/hump0019.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>488</width>
+		<height>488</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hump</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>148</ymin>
+			<xmax>368</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>
